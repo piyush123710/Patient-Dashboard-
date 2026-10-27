@@ -1,0 +1,6 @@
+{
+  "name": "Patient Dashboard - Jessica Taylor",
+  "description": "TechCare Patient Dashboard showing medical history, vitals, blood pressure chart, and diagnostic results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
